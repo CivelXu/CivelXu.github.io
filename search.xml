@@ -54,31 +54,6 @@
     
     
     <entry>
-      <title>记录 HomeKit</title>
-      <link href="/2024/03/31/homekit/"/>
-      <url>/2024/03/31/homekit/</url>
-      
-        <content type="html"><![CDATA[<h2 id="记录-HomeKit"><a href="#记录-HomeKit" class="headerlink" title="记录 HomeKit"></a>记录 HomeKit</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> HomeKit </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> HomeKit </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2024/03/31/hello-world/"/>
       <url>/2024/03/31/hello-world/</url>
@@ -96,6 +71,31 @@
         <tags>
             
             <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录 HomeKit</title>
+      <link href="/2024/03/31/homekit/"/>
+      <url>/2024/03/31/homekit/</url>
+      
+        <content type="html"><![CDATA[<h2 id="记录-HomeKit"><a href="#记录-HomeKit" class="headerlink" title="记录 HomeKit"></a>记录 HomeKit</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> HomeKit </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HomeKit </tag>
             
         </tags>
       
