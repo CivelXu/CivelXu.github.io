@@ -21303,7 +21303,7 @@ html.hide-aside .layout > div:first-child {
 
 #flip-wrapper {
   position: relative;
-  width: 235px;
+  width: 100%;
   height: 110px;
   z-index: 1;
 }
